@@ -1,0 +1,47 @@
+nav ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+nav ul li {
+	list-style: none;
+	padding: 12px;
+	font-weight: 700;
+}
+h1{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: white;
+}
+
+section .container .parent .child p{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	
+}
+
+section {
+	background-image: url(https://www.hvidstenmedia.no/wp-content/uploads/2019/12/Penger.jpg);
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+footer{
+	background-color: black;
+	font-size: 20px;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+
+footer p{
+	color: white;
+	text-align: center;
+}
